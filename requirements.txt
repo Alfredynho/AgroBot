@@ -1,0 +1,13 @@
+
+# Django Version
+
+Django==1.11.4
+
+
+# Pyserial
+
+pyserial==3.4
+
+# Telepot
+
+telepot==12.2
